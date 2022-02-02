@@ -1,0 +1,824 @@
+Monster Name,Type,Family,Level,Terrain
+Animated Broom,Construct,Animated Object,-1,Any
+Bloodseeker,Animal,--,-1,Swamp
+Compsognathus,Animal,Dinosaur,-1,Plains
+Crawling Hand,Undead,--,-1,Any
+Eagle,Animal,Eagle,-1,Mountains
+Flash Beetle,Animal,--,-1,Underground
+Giant Centipede,Animal,Centipede,-1,Any
+Giant Rat,Animal,Rat,-1,Urban
+Goblin Warrior,Humanoid,Goblinoid,-1,Forest
+Guard Dog,Animal,Dog,-1,Any
+Kobold Warrior,Humanoid,Kobold,-1,Underground
+Mitflit,Fey,Gremlin,-1,Underground
+Raven,Animal,Raven,-1,Any
+Skeleton Guard,Undead,Skeleton,-1,Any
+Snapping Turtle,Animal,Turtle,-1,Aquatic
+Sprite,Fey,Sprite,-1,Forest
+Unseen Servant,--,--,-1,Any
+Viper,Animal,Snake,-1,Forest
+Yellow Musk Thrall,Plant,--,-1,Any
+Zombie Shambler,Undead,Zombie,-1,Any
+Badger,Animal,Badger,0,Forest
+Blue-Ringed Octopus,Animal,Octopus,0,Aquatic
+Bottlenose Dolphin,Animal,Dolphin,0,Aquatic
+Dream Spider,Animal,Spider,0,Jungle
+Duergar Sharpshooter,Humanoid,Duergar,0,Underground
+Giant Maggot,Animal,Fly,0,Any
+Grindylow,Aberration,--,0,Aquatic
+Homunculus,Construct,--,0,Any
+Leaf Leshy,Plant,Leshy,0,Forest
+Lemure,Fiend,Devil,0,Extraplanar
+Orc Brute,Humanoid,Orc,0,Hills
+Pugwampi,Fey,Gremlin,0,Hills
+Riding Pony,Animal,Horse,0,Any
+Sea Snake,Animal,Snake,0,Aquatic
+Shoony Tiller,Humanoid,Shoony,0,Plains
+Spear Frog,Animal,Frog,0,Swamp
+Spider Swarm,Animal,Spider,0,Any
+Stingray,Animal,Ray,0,Aquatic
+Vampire Squid,Animal,Squid,0,Aquatic
+Vine Lasher,Plant,Deadly Flora,0,Jungle
+Air Mephit,Elemental,"Elemental, Mephit",1,Extraplanar
+Akata,Aberration,--,1,Any
+Amoeba Swarm,Ooze,--,1,Any
+Arbiter,Monitor,Inevitable,1,Extraplanar
+Augur,Fiend,Velstrac,1,Extraplanar
+Ball Python,Animal,Snake,1,Jungle
+Biloko Warrior,Fey,Biloko,1,Jungle
+Boggard Scout,Humanoid,Boggard,1,Swamp
+Brownie,Fey,--,1,Forest
+Cacodaemon (Harvester Daemon),Fiend,Daemon,1,Extraplanar
+Caligni Dancer,Humanoid,Caligni,1,Underground
+Carbuncle,Beast,--,1,Swamp
+Cassisian (Archive Angel),Celestial,Angel,1,Extraplanar
+Catfolk Pouncer,Humanoid,Catfolk,1,Jungle
+Cave Scorpion,Animal,Scorpion,1,Underground
+Charau-ka Warrior,Humanoid,Charau-ka,1,Jungle
+Cythnigot,Fiend,Qlippoth,1,Extraplanar
+Deep Gnome Scout,Humanoid,Deep Gnome,1,Underground
+Drow Fighter,Humanoid,Drow,1,Underground
+Duergar Bombardier,Humanoid,Duergar,1,Underground
+Dust Mephit,Elemental,Earth,1,Extraplanar
+Earth Mephit,Elemental,"Elemental, Mephit",1,Extraplanar
+Electric Eel,Animal,Eel,1,Aquatic
+Fetchling Scout,Humanoid,Fetchling,1,Extraplanar
+Fire Mephit,Elemental,"Elemental, Mephit",1,Extraplanar
+Ghoul,Undead,Ghoul,1,Any
+Giant Amoeba,Ooze,--,1,Any
+Giant Cockroach,Animal,Cockroach,1,Any
+Giant Fly,Animal,Fly,1,Any
+Giant Frog,Animal,Frog,1,Swamp
+Giant Gecko,Animal,Lizard,1,Any
+Giant Solifugid,Animal,Solifugid,1,Desert
+Giant Solifugid,Animal,Solifugid,1,Desert
+Giant Tick,Animal,Tick,1,Any
+Goblin Commando,Humanoid,Goblinoid,1,Forest
+Goblin Dog,Animal,--,1,Forest
+Goblin Pyro,Humanoid,Goblinoid,1,Forest
+Goblin War Chanter,Humanoid,Goblinoid,1,Forest
+Gourd Leshy,Plant,Leshy,1,Plains
+Graveshell,Beast,--,1,Swamp
+Grig,Fey,--,1,Forest
+Grippli Scout,Fey,Grippli,1,Forest
+Grippli Scout,Humanoid,Grippli,1,Jungle
+Hellcrown,Undead,--,1,Any
+Hippocampus,Animal,Hippocampus,1,Aquatic
+Hobgoblin Soldier,Humanoid,Goblinoid,1,Hills
+Hunting Spider,Animal,Spider,1,Any
+Hyena,Animal,Hyena,1,Plains
+Ice Mephit,Elemental,Water,1,Extraplanar
+Ifrit Pyrochemist,Humanoid,Geniekin,1,Extraplanar
+Imp,Fiend,Devil,1,Extraplanar
+Jinkin,Fey,Gremlin,1,Forest
+Kobold Scout,Humanoid,Kobold,1,Underground
+Lantern Archon,Celestial,Archon,1,Extraplanar
+Lizardfolk Defender,Humanoid,Lizardfolk,1,Swamp
+Lizardfolk Scout,Humanoid,Lizardfolk,1,Swamp
+Lyrakien (Wanderer Azata),Celestial,Azata,1,Extraplanar
+Manta Ray,Animal,Ray,1,Aquatic
+Merfolk Warrior,Humanoid,Merfolk,1,Aquatic
+Naiad,Fey,Dryad,1,Aquatic
+Nixie,Fey,--,1,Aquatic
+Nosoi,Monitor,Psychopomp,1,Extraplanar
+Ooze Mephit,Elemental,Water,1,Extraplanar
+Orc Warrior,Humanoid,Orc,1,Hills
+Oread Guard,Humanoid,Geniekin,1,Extraplanar
+Petitioner,Petitioner,--,1,Extraplanar
+Plague Zombie,Undead,Zombie,1,Any
+Quasit,Fiend,Demon,1,Extraplanar
+Rat Swarm,Animal,Rat,1,Urban
+Reef Octopus,Animal,Octopus,1,Aquatic
+Reefclaw,Aberration,--,1,Aquatic
+Riding Dog,Animal,Dog,1,Any
+Riding Horse,Animal,Horse,1,Any
+Sewer Ooze,Ooze,--,1,Urban
+Skulk,Humanoid,Skulk,1,Any
+Sylph Sneak,Humanoid,Geniekin,1,Extraplanar
+Steam Mephit,Elemental,Water,1,Extraplanar
+Suli Dune Dancer,Humanoid,Geniekin,1,Desert
+Sunflower Leshy,Plant,Leshy,1,Plains
+Undine Hydromancer,Humanoid,Geniekin,1,Extraplanar
+Vampire Bat Swarm,Animal,Bat,1,Any
+Velociraptor,Animal,Dinosaur,1,Forest
+Vexgit,Fey,Gremlin,1,Underground
+Void Zombie,Undead,--,1,Extraplanar
+Voidworm,Monitor,Protean,1,Extraplanar
+War Pony,Animal,Horse,1,Any
+Water Mephit,Elemental,"Elemental, Water",1,Extraplanar
+Wolf,Animal,Wolf,1,Plains
+Xulgath Warrior,Humanoid,Xulgath,1,Underground
+Anadi Hunter,Humanoid,Anadi,2,Jungle
+Animated Armor,Construct,Animated Object,2,Any
+Black Bear,Animal,Bear,2,Forest
+Blindheim,Animal,--,2,Underground
+Blink Dog,Beast,--,2,Forest
+Bloodlash Bush,Plant,Deadly Flora,2,Forest
+Boar,Animal,Boar,2,Forest
+Bog Strider,Aberration,--,2,Swamp
+Boggard Warrior,Humanoid,Boggard,2,Swamp
+Bugbear Thug,Humanoid,Goblinoid,2,Plains
+Caligni Creeper,Humanoid,Caligni,2,Underground
+Cave Fisher,Animal,--,2,Underground
+Choker,Aberration,--,2,Underground
+Cockroach Swarm,Animal,Cockroach,2,Any
+Crocodile,Animal,Crocodile,2,Swamp
+Deep Gnome Warrior,Humanoid,Deep Gnome,2,Underground
+Deinonychus,Animal,Dinosaur,2,Forest
+Dero Stalker,Humanoid,Dero,2,Underground
+Dhampir Wizard,Humanoid,Dhampir,2,Any
+Draugr,Undead,--,2,Aquatic
+Drow Rogue,Humanoid,Drow,2,Underground
+Duergar Taskmaster,Humanoid,Duergar,2,Underground
+Ember Fox,Elemental,Fire,2,Extraplanar
+Emperor Bird,Animal,--,2,Jungle
+Faerie Dragon,Dragon,--,2,Forest
+Fungus Leshy,Fungus,Leshy,2,Swamp
+Ghast,Undead,Ghoul,2,Any
+Giant Ant,Animal,Ant,2,Any
+Giant Badger,Animal,Badger,2,Forest
+Giant Bat,Animal,Bat,2,Underground
+Giant Crab,Animal,Crab,2,Aquatic
+Giant Leech,Animal,Leech,2,Swamp
+Giant Monitor Lizard,Animal,Lizard,2,Jungle
+Giant Toad,Animal,--,2,Desert
+Giant Viper,Animal,Snake,2,Forest
+Gnoll Hunter,Humanoid,Gnoll,2,Plains
+Grauladon,Dragon,--,2,Swamp
+Hippogriff,Animal,--,2,Hills
+Icicle Snake,Elemental,Water,2,Extraplanar
+Kobold Dragon Mage,Humanoid,Kobold,2,Underground
+Leopard,Animal,Cat,2,Jungle
+Leprechaun,Fey,--,2,Forest
+Living Boulder,Elemental,Earth,2,Extraplanar
+Lizardfolk Stargazer,Humanoid,Lizardfolk,2,Swamp
+Merfolk Wavecaller,Humanoid,Merfolk,2,Aquatic
+Morlock,Humanoid,--,2,Underground
+Mudwretch,Elemental,Earth,2,Extraplanar
+Nuglub,Fey,Gremlin,2,Underground
+Orc Warchief,Humanoid,Orc,2,Hills
+Pteranodon,Animal,Pterosaur,2,Jungle
+Sea Devil Scout,Humanoid,Sea Devil,2,Aquatic
+Shadow Drake,Dragon,--,2,Extraplanar
+Shocker Lizard,Animal,Lizard,2,Swamp
+Shoony Militia Member,Humanoid,Shoony,2,Plains
+Sinspawn,Aberration,--,2,Any
+Skeletal Champion,Undead,Skeleton,2,Any
+Skeletal Horse,Undead,Skeleton,2,Any
+Skum (Ulat-Kini),Aberration,Alghollthu,2,Aquatic
+Slime Mold,Ooze,--,2,Forest
+Slurk,Animal,--,2,Underground
+Soulbound Doll,Construct,--,2,Any
+Spark Bat,Elemental,Air,2,Extraplanar
+Tatzlwyrm,Dragon,--,2,Forest
+Triton,Humanoid,Triton,2,Aquatic
+War Horse,Animal,Horse,2,Any
+Warg,Beast,Warg,2,Plains
+Wereboar,Humanoid,Werecreature,2,Any
+Wererat,Humanoid,Werecreature,2,Urban
+Wolverine,Animal,Wolverine,2,Forest
+Xulgath Bilebearer,Humanoid,Xulgath,2,Underground
+Xulgath Skulker,Humanoid,Xulgath,2,Underground
+Yellow Musk Brute,Plant,--,2,Any
+Yellow Musk Creeper,Plant,--,2,Any
+Zombie Brute,Undead,Zombie,2,Any
+Zyss Serpentfolk,Humanoid,Serpentfolk,2,Underground
+Aapoph Serpentfolk,Humanoid,Serpentfolk,3,Underground
+Akizendri,Monitor,Protean,3,Extraplanar
+Animated Statue,Construct,Animated Object,3,Any
+Ankhrav,Animal,Ankhrav,3,Plains
+Assassin Vine,Plant,--,3,Jungle
+Bogey,Fey,Bogeyman,3,Any
+Boggard Swampseer,Humanoid,Boggard,3,Swamp
+Brine Shark,Elemental,"Elemental, Water",3,Extraplanar
+Bugbear Tormentor,Humanoid,Goblinoid,3,Plains
+Bunyip,Animal,--,3,Aquatic
+Caligni Slayer,Humanoid,Caligni,3,Underground
+Centaur,Beast,--,3,Forest
+Centipede Swarm,Animal,Centipede,3,Any
+Changeling Exile,Humanoid,Changeling,3,Any
+Charau-ka Acolyte of Angazhan,Humanoid,Charau-ka,3,Jungle
+Chimpanzee Visitant,Undead,Visitant,3,Any
+Chupacabra,Beast,--,3,Hills
+Cinder Rat,Elemental,"Elemental, Fire",3,Extraplanar
+Cockatrice,Beast,--,3,Plains
+D'ziriak,Aberration,--,3,Extraplanar
+Dero Strangler,Humanoid,Dero,3,Underground
+Dire Wolf,Animal,Wolf,3,Hills
+Doppelganger,Humanoid,--,3,Urban
+Drow Priestess,Humanoid,Drow,3,Underground
+Dryad,Fey,Dryad,3,Forest
+Esobok,Monitor,Psychopomp,3,Extraplanar
+Fen Mosquito Swarm,Animal,Mosquito,3,Swamp
+Gelatinous Cube,Ooze,--,3,Underground
+Giant Chameleon,Animal,Lizard,3,Jungle
+Giant Dragonfly Nymph,Animal,Dragonfly,3,Swamp
+Giant Eagle,Beast,Eagle,3,Mountains
+Giant Flea,Animal,Flea,3,Any
+Giant Mantis,Animal,"Mantis, Giant",3,Forest
+Giant Scorpion,Animal,Scorpion,3,Desert
+Giant Wasp,Animal,Wasp,3,Forest
+Giant Whiptail Centipede,Animal,Centipede,3,Any
+Gnoll Cultist,Humanoid,Gnoll,3,Plains
+Gorilla,Animal,Ape,3,Jungle
+Grippli Archer,Fey,Grippli,3,Forest
+Grizzly Bear,Animal,Bear,3,Forest
+Grothlut,Aberration,--,3,Underground
+Hell Hound,Fiend,Hell Hound,3,Extraplanar
+Hyaenodon,Animal,Hyena,3,Plains
+Lion,Animal,Cat,3,Plains
+Necrophidius,Construct,--,3,Any
+Ogre Warrior,Giant,Ogre,3,Hills
+Pachycephalosaurus,Animal,Dinosaur,3,Plains
+Pegasus,Beast,--,3,Mountains
+Quickling,Fey,--,3,Forest
+Raven Swarm,Animal,Raven,3,Any
+River Drake,Dragon,Drake,3,Aquatic
+Rust Monster,Aberration,--,3,Underground
+Sea Hag,Humanoid,Hag,3,Aquatic
+Skeletal Giant,Undead,Skeleton,3,Any
+Snapping Flytrap,Plant,Flytrap,3,Swamp
+Sod Hound,Elemental,"Elemental, Earth",3,Extraplanar
+Spriggan Bully,Humanoid,Spriggan,3,Forest
+Tixitog,Aberration,--,3,Underground
+Trollhound,Beast,--,3,Mountains
+Twigjack,Fey,--,3,Forest
+Unicorn,Fey,--,3,Forest
+Urdefhan Warrior,Humanoid,Urdefhan,3,Underground
+Vampiric Mist,Aberration,--,3,Any
+Vermlek (Worm Demon),Fiend,Demon,3,Any
+Violet Fungus,Fungus,--,3,Underground
+Web Lurker,Aberration,--,3,Forest
+Werewolf,Humanoid,Werecreature,3,Any
+Wight,Undead,--,3,Any
+Xulgath Leader,Humanoid,Xulgath,3,Underground
+Yeth Hound,Fiend,--,3,Extraplanar
+Zebub (Accuser Devil),Fiend,Devil,3,Extraplanar
+Zephyr Hawk,Elemental,"Elemental, Air",3,Extraplanar
+Zuipnyrn (Moon Mole),Aberration,--,3,Any
+Abrikandilu (Wrecker Demon),Fiend,Demon,4,Any
+Anadi Sage,Humanoid,Anadi,4,Jungle
+Arboreal Warden,Plant,Arboreal,4,Forest
+Attic Whisperer,Undead,--,4,Any
+Barghest,Fiend,Barghest,4,Any
+Biloko Veteran,Fey,Biloko,4,Jungle
+Blood Ooze,Ooze,--,4,Any
+Brood Leech Swarm,Animal,Leech,4,Swamp
+Cairn Wight,Undead,Wight,4,Any
+Calathgar,Plant,--,4,Tundra
+Caligni Stalker,Humanoid,Caligni,4,Underground
+Carrion Golem,Construct,--,4,Any
+Coil Spy,Humanoid,Serpentfolk,4,Underground
+Daeodon,Animal,Boar,4,Forest
+Earthen Destrier,Elemental,Earth,4,Extraplanar
+Faceless Stalker (Ugothol),Aberration,Alghollthu,4,Urban
+Filth Fire,Elemental,Fire,4,Extraplanar
+Flytrap Leshy,Plant,Leshy,4,Jungle
+Frost Troll,Giant,Troll,4,Tundra
+Gancanagh (Passion Azata),Celestial,Azata,4,Extraplanar
+Gargoyle,Beast,--,4,Any
+Ghost Commoner,Undead,Ghost,4,Any
+Giant Dragonfly,Animal,Dragonfly,4,Swamp
+Giant Stag Beetle,Animal,Beetle,4,Swamp
+Giant Wolverine,Animal,Wolverine,4,Forest
+Gnoll Sergeant,Humanoid,Gnoll,4,Plains
+Gray Ooze,Ooze,--,4,Swamp
+Great White Shark,Animal,Shark,4,Aquatic
+Green Hag,Humanoid,Hag,4,Swamp
+Griffon,Animal,--,4,Hills
+Hadrosaurid,Animal,Dinosaur,4,Forest
+Hobgoblin Archer,Humanoid,Goblinoid,4,Hills
+Horned Archon,Celestial,Archon,4,Extraplanar
+Hound Archon,Celestial,Archon,4,Extraplanar
+Janni,Elemental,Genie,4,Extraplanar
+Kelpie,Fey,--,4,Aquatic
+Korred,Fey,--,4,Forest
+Living Thunderclap,Elemental,Air,4,Extraplanar
+Luminous Ooze,Ooze,--,4,Underground
+Mandragora,Plant,--,4,Forest
+Mimic,Aberration,--,4,Any
+Minotaur,Beast,--,4,Underground
+Mist Stalker,Elemental,Water,4,Extraplanar
+Ogre Glutton,Giant,Ogre,4,Hills
+Otyugh,Aberration,--,4,Underground
+Owlbear,Animal,--,4,Forest
+Peryton,Animal,--,4,Any
+Pixie,Fey,Sprite,4,Forest
+Poracha,Beast,--,4,Forest
+Ratfolk Grenadier,Humanoid,Ratfolk,4,Underground
+Rhinoceros,Animal,Rhinoceros,4,Plains
+Satyr,Fey,--,4,Forest
+Scarecrow,Construct,--,4,Any
+Scorpion Swarm,Animal,Scorpion,4,Desert
+Sea Devil Brute,Humanoid,Sea Devil,4,Aquatic
+Shadow,Undead,Shadow,4,Any
+Shoony Hierarch,Humanoid,Shoony,4,Plains
+Tiger,Animal,Cat,4,Jungle
+Vampire Spawn Rogue,Undead,Vampire,4,Any
+Wasp Swarm,Animal,Wasp,4,Forest
+Werebear,Humanoid,Werecreature,4,Forest
+Weretiger,Humanoid,Werecreature,4,Any
+Army Ant Swarm,Animal,Ant,5,Forest
+Azuretzi,Monitor,Protean,5,Extraplanar
+Barbazu (Bearded Devil),Fiend,Devil,5,Extraplanar
+Basidirond,Fungus,--,5,Underground
+Basilisk,Beast,--,5,Any
+Bog Mummy,Undead,Mummy,5,Swamp
+Catrina,Monitor,Psychopomp,5,Extraplanar
+Cloaker,Aberration,--,5,Underground
+Cyclops,Giant,Cyclops,5,Forest
+Dandasuka,Fiend,Rakshasa,5,Any
+Deep Gnome Rockwarden,Humanoid,Deep Gnome,5,Underground
+Dero Magister,Humanoid,Dero,5,Underground
+Dig-Widget,Construct,--,5,Any
+Djinni,Elemental,Genie,5,Extraplanar
+Doorwarden,Construct,--,5,Any
+Emperor Cobra,Animal,Snake,5,Swamp
+Ether Spider,Beast,--,5,Any
+Flame Drake,Dragon,Drake,5,Mountains
+Flea Swarm,Animal,Flea,5,Any
+Forge-Spurned,Undead,--,5,Mountains
+Giant Crawling Hand,Undead,--,5,Any
+Giant Frilled Lizard,Animal,Lizard,5,Forest
+Giant Moray Eel,Animal,Eel,5,Aquatic
+Gibbering Mouther,Aberration,--,5,Any
+Grimstalker,Fey,--,5,Forest
+Grippli Greenspeaker,Fey,Grippli,5,Forest
+Grodair,Beast,--,5,Aquatic
+Harpy,Humanoid,--,5,Swamp
+Hippopotamus,Animal,Hippopotamus,5,Aquatic
+Ice Golem,Construct,Golem,5,Tundra
+Leucrotta,Beast,--,5,Forest
+Lion Visitant,Undead,Visitant,5,Any
+Living Landslide,Elemental,"Elemental, Earth",5,Extraplanar
+Living Waterfall,Elemental,"Elemental, Water",5,Extraplanar
+Living Whirlwind,Elemental,"Elemental, Air",5,Extraplanar
+Living Wildfire,Elemental,"Elemental, Fire",5,Extraplanar
+Lurker In Light,Fey,--,5,Forest
+Ochre Jelly,Ooze,--,5,Underground
+Ogre Spider,Animal,--,5,Hills
+Orca,Animal,Dolphin,5,Aquatic
+Ostiarius,Fiend,Velstrac,5,Extraplanar
+Polar Bear,Animal,Bear,5,Tundra
+Poltergeist,Undead,Spirit,5,Any
+Redcap,Fey,--,5,Forest
+Sabosan,Humanoid,--,5,Forest
+Skaveling,Undead,--,5,Any
+Troll,Giant,Troll,5,Mountains
+Urdefhan Tormentor,Humanoid,Urdefhan,5,Underground
+Winter Wolf,Beast,Warg,5,Tundra
+Yeti,Humanoid,--,5,Tundra
+Ahuizotl,Beast,--,6,Swamp
+Anadi Elder,Humanoid,Anadi,6,Jungle
+Ankylosaurus,Animal,Dinosaur,6,Jungle
+Annis Hag,Humanoid,Hag,6,Hills
+Asanbosam,Humanoid,--,6,Jungle
+Awakened Tree,Plant,Arboreal,6,Forest
+Babau,Fiend,Demon,6,Extraplanar
+Baobhan Sith,Fey,--,6,Forest
+Belker,Elemental,Air,6,Any
+Blizzardborn,Elemental,Water,6,Any
+Blodeuwedd,Fey,--,6,Forest
+Blood Boar,Animal,--,6,Forest
+Bralani,Celestial,Azata,6,Extraplanar
+Bugaboo,Fey,Bogeyman,6,Any
+Cat Sith,Fey,Sith,6,Urban
+Cave Bear,Animal,Bear,6,Any
+Cavern Troll,Giant,Troll,6,Underground
+Ceustodaemon (Guardian Daemon),Fiend,Daemon,6,Extraplanar
+Charau-ka Butcher,Humanoid,Charau-ka,6,Jungle
+Choral (Choir Angel),Celestial,Angel,6,Extraplanar
+Drider,Aberration,Fleshwarp,6,Underground
+Elananx,Fey,--,6,Forest
+Ettin,Giant,--,6,Hills
+Evangelist,Fiend,Velstrac,6,Extraplanar
+Fire Jellyfish Swarm,Animal,Jellyfish,6,Aquatic
+Giant Mosquito,Animal,Mosquito,6,Any
+Giant Tarantula,Animal,Spider,6,Any
+Hobgoblin General,Humanoid,Goblinoid,6,Hills
+Hodag,Beast,--,6,Forest
+Hydra,Beast,--,6,Swamp
+Iguanodon,Animal,Dinosaur,6,Swamp
+Jungle Drake,Dragon,Drake,6,Jungle
+Lamia,Beast,Lamia,6,Any
+Living Sap,Ooze,--,6,Jungle
+Lunar Naga,Aberration,--,6,Any
+Manticore,Beast,--,6,Hills
+Mummy Guardian,Undead,Mummy,6,Any
+Nightmare,Fiend,Nightmare,6,Any
+Revenant,Undead,--,6,Any
+Sand Sentry,Elemental,Earth,6,Extraplanar
+Scythe Tree,Plant,--,6,Forest
+Sea Devil Baron,Humanoid,Sea Devil,6,Aquatic
+Sea Drake,Dragon,--,6,Aquatic
+Shambler,Plant,--,6,Swamp
+Skrik Nettle,Aberration,--,6,Any
+Smilodon,Animal,Cat,6,Plains
+Striding Fire,Elemental,Fire,6,Extraplanar
+Vampire Count,Undead,Vampire,6,Any
+Verdurous Ooze,Ooze,--,6,Forest
+Vrykolakas Spawn,Undead,--,6,Any
+Will-o'-Wisp,Aberration,--,6,Swamp
+Witchwyrd,Humanoid,--,6,Any
+Witchwyrd,Humanoid,--,6,Desert
+Wood Giant,Giant,--,6,Forest
+Wood Golem,Construct,Golem,6,Any
+Wooly Rhinoceros,Animal,Rhinoceros,6,Tundra
+Wraith,Undead,--,6,Any
+Wyvern,Dragon,Drake,6,Hills
+Xill,Aberration,--,6,Extraplanar
+Young White Dragon,Dragon,"Dragon, Chromatic",6,Tundra
+Zombie Hulk,Undead,Zombie,6,Any
+Alghollthu Master (Aboleth),Aberration,Alghollthu,7,Aquatic
+Black Pudding,Ooze,--,7,Underground
+Chuul,Aberration,--,7,Aquatic
+Cu Sith,Fey,Sith,7,Any
+Culdewen,Fey,--,7,Swamp
+Dark Naga,Aberration,Naga,7,Underground
+Drainberry Bush,Plant,--,7,Forest
+Dullahan,Undead,--,7,Any
+Dweomercat,Beast,--,7,Forest
+Elasmosaurus,Animal,Dinosaur,7,Aquatic
+Elephant,Animal,Elephant,7,Plains
+Eloko,Fey,Biloko,7,Jungle
+Frost Drake,Dragon,Drake,7,Tundra
+Giant Animated Statue,Construct,Animated Object,7,Any
+Giant Jellyfish,Animal,Jellyfish,7,Aquatic
+Greater Barghest,Fiend,Barghest,7,Any
+Greater Shadow,Undead,Shadow,7,Any
+Hellcat,Fiend,--,7,Extraplanar
+Hill Giant,Giant,--,7,Hills
+Hound Of Tindalos,Aberration,Time,7,Extraplanar
+Invidiak (Shadow Demon),Fiend,Demon,7,Extraplanar
+Invisible Stalker,Elemental,"Elemental, Air",7,Extraplanar
+Iridescent Elephant,Animal,--,7,Any
+Legion Archon,Celestial,Archon,7,Extraplanar
+Lillend (Muse Azata),Celestial,Azata,7,Extraplanar
+Medusa,Humanoid,--,7,Swamp
+Megalania,Animal,Lizard,7,Plains
+Naiad Queen,Fey,Dryad,7,Aquatic
+Naunet,Monitor,Protean,7,Extraplanar
+Ogre Boss,Giant,Ogre,7,Hills
+Quatoid,Elemental,"Elemental, Water",7,Extraplanar
+Quetzalcoatlus,Animal,Pterosaur,7,Jungle
+Remorhaz,Beast,--,7,Tundra
+Salamander,Elemental,"Elemental, Fire",7,Extraplanar
+Sceaduinar,Aberration,Negative,7,Extraplanar
+Shaitan,Elemental,Genie,7,Extraplanar
+Shoggti,Fiend,Qlippoth,7,Extraplanar
+Skeletal Hulk,Undead,Skeleton,7,Any
+Soul Eater,Fiend,Daemon,7,Extraplanar
+Specter,Undead,--,7,Any
+Sportlebore Swarm,Animal,Sportlebore,7,Any
+Spriggan Warlord,Humanoid,Spriggan,7,Forest
+Stegosaurus,Animal,Dinosaur,7,Plains
+Stygira,Fey,--,7,Hills
+Succubus (Lust Demon),Fiend,Demon,7,Extraplanar
+Tendriculos,Plant,--,7,Jungle
+Theletos,Monitor,Aeon,7,Extraplanar
+Totenmaske,Undead,--,7,Any
+Vanth,Monitor,Psychopomp,7,Extraplanar
+Xorn,Elemental,"Elemental, Earth",7,Extraplanar
+Young Black Dragon,Dragon,"Dragon, Chromatic",7,Swamp
+Young Brass Dragon,Dragon,"Dragon, Metallic",7,Desert
+Young Crystal Dragon,Dragon,"Dragon, Primal",7,Underground
+Anancus,Animal,Elephant,8,Plains
+Animate Dream,Dream,--,8,Any
+Arboreal Regent,Plant,Arboreal,8,Forest
+Axiomite,Monitor,Aeon,8,Extraplanar
+Balisse (Confessor Angel),Celestial,Angel,8,Extraplanar
+Behir,Beast,--,8,Hills
+Bida,Dragon,--,8,Jungle
+Bodak,Undead,--,8,Any
+Bone Prophet,Humanoid,Serpentfolk,8,Underground
+Brain Collector,Aberration,--,8,Any
+Bulette,Animal,--,8,Plains
+Chimera,Beast,--,8,Hills
+Denizen of Leng,Aberration,Dream,8,Extraplanar
+Desert Drake,Dragon,Drake,8,Desert
+Destrachan,Aberration,--,8,Underground
+Erinys (Fury Devil),Fiend,Devil,8,Extraplanar
+Flesh Golem,Construct,Golem,8,Any
+Giant Anaconda,Animal,Snake,8,Jungle
+Giant Hippocampus,Animal,Hippocampus,8,Aquatic
+Giant Octopus,Animal,--,8,Aquatic
+Giant Slug,Animal,Slug,8,Any
+Glass Golem,Construct,Golem,8,Any
+Gorgon,Beast,--,8,Plains
+Granite Glyptodont,Elemental,Earth,8,Extraplanar
+Hive Mother,Animal,Ankhrav,8,Plains
+Icewyrm,Elemental,Water,8,Extraplanar
+Intellect Devourer,Aberration,--,8,Underground
+Kishi,Fey,--,8,Jungle
+Krooth,Animal,--,8,Swamp
+Lamia Matriarch,Beast,Lamia,8,Any
+Magma Scorpion,Elemental,Earth,8,Extraplanar
+Marsh Giant,Giant,--,8,Swamp
+Megaprimatus,Animal,Ape,8,Jungle
+Mohrg,Undead,--,8,Any
+Moonflower,Plant,--,8,Jungle
+Nabasu (Gluttony Demon),Fiend,Demon,8,Extraplanar
+Onidoshi,Giant,Oni,8,Any
+Sandpoint Devil,Beast,--,8,Aquatic
+Sarglagon (Drowning Devil),Fiend,Devil,8,Extraplanar
+Sphinx,Beast,--,8,Desert
+Stone Giant,Giant,--,8,Underground
+Triceratops,Animal,Dinosaur,8,Plains
+Two-Headed Troll,Giant,Troll,8,Mountains
+Xulgath Stoneliege,Humanoid,Xulgath,8,Underground
+Young Brine Dragon,Dragon,"Dragon, Primal",8,Aquatic
+Young Copper Dragon,Dragon,"Dragon, Metallic",8,Hills
+Young Green Dragon,Dragon,"Dragon, Chromatic",8,Forest
+Alchemical Golem,Construct,Golem,9,Any
+Aurumvorax,Animal,--,9,Underground
+Deinosuchus,Animal,Crocodile,9,Swamp
+Dracolisk,Beast,Dragon,9,Any
+Dragon Turtle,Dragon,--,9,Aquatic
+Drakauthix,Fungus,--,9,Underground
+Dread Wraith,Undead,Wraith,9,Any
+Efreeti,Elemental,Genie,9,Extraplanar
+Firewyrm,Elemental,"Elemental, Fire",9,Extraplanar
+Frost Giant,Giant,--,9,Tundra
+Giant Snapping Turtle,Animal,Turtle,9,Swamp
+Giant Squid,Animal,Squid,9,Aquatic
+Irnakurse,Aberration,--,9,Underground
+Jyoti,Humanoid,Positive,9,Extraplanar
+Leukodaemon (Pestilence Daemon),Fiend,Daemon,9,Extraplanar
+Marid,Elemental,Genie,9,Extraplanar
+Mastodon,Animal,Elephant,9,Forest
+Megalodon,Animal,Shark,9,Aquatic
+Mokele-mbembe,Animal,--,9,Jungle
+Mummy Pharaoh,Undead,Mummy,9,Any
+Nessian Warhound,Fiend,Hell Hound,9,Extraplanar
+Night Hag,Fiend,Hag,9,Extraplanar
+Nuckelavee,Fey,--,9,Aquatic
+Osyluth,Fiend,Demon,9,Extraplanar
+Osyluth (Bone Devil),Fiend,Devil,9,Extraplanar
+Roc,Animal,--,9,Mountains
+Spirit Naga,Aberration,Naga,9,Swamp
+Stone Mauler,Elemental,"Elemental, Earth",9,Extraplanar
+Storm Lord,Elemental,"Elemental, Water",9,Aquatic
+Tick Swarm,Animal,Tick,9,Any
+Tidal Master,Elemental,"Elementa, Water",9,Extraplanar
+Titan Centipede,Animal,Centipede,9,Any
+Vampire Mastermind,Undead,Vampire,9,Any
+Vrock (Wrath Demon),Fiend,Demon,9,Extraplanar
+Witchfire,Undead,--,9,Swamp
+Young Blue Dragon,Dragon,"Dragon, Chromatic",9,Desert
+Young Bronze Dragon,Dragon,"Dragon, Metallic",9,Aquatic
+Young Magma Dragon,Dragon,"Dragon, Primal",9,Extraplanar
+Zelekhut,Monitor,Inevitable,9,Extraplanar
+Adult White Dragon,Dragon,"Dragon, Chromatic",10,Tundra
+Aluum Enforcer,Construct,Aluum,10,Any
+Bebilith,Fiend,Demon,10,Extraplanar
+Behemoth Hippopotamus,Animal,Hippopotamus,10,Aquatic
+Bogeyman,Fey,Bogeyman,10,Any
+Brontosaurus,Animal,Dinosaur,10,Jungle
+Clay Golem,Construct,Golem,10,Any
+Counteflora,Plant,--,10,Forest
+Dezullon,Plant,--,10,Forest
+Fire Giant,Giant,--,10,Mountains
+Ghonhatine,Aberration,Fleshwarp,10,Underground
+Ghost Mage,Undead,Ghost,10,Any
+Giant Flytrap,Plant,Flytrap,10,Forest
+Graveknight,Undead,--,10,Any
+Guardian Naga,Aberration,Naga,10,Plains
+Gug,Aberration,--,10,Underground
+Herecite Of Zevgavizeb,Undead,--,10,Any
+Imentesh,Monitor,Protean,10,Extraplanar
+Kalavakus (Slaver Demon),Fiend,Demon,10,Extraplanar
+Mammoth,Animal,Elephant,10,Tundra
+Melody On The Wind,Elemental,Air,10,Extraplanar
+Movanic Deva (Guardian Angel),Celestial,Angel,10,Extraplanar
+Nereid,Fey,--,10,Aquatic
+Nilith,Aberration,--,10,Forest
+Nyogoth,Fiend,Qlippoth,10,Extraplanar
+Ofalth,Aberration,--,10,Urban
+Peluda,Dragon,--,10,Swamp
+Phistophilus (Contract Devil),Fiend,Devil,10,Extraplanar
+Piscodaemon (Venom Daemon),Fiend,Daemon,10,Extraplanar
+Quetz Couatl,Beast,Couatl,10,Jungle
+Raja Rakshasa,Fiend,Rakshasa,10,Any
+Remnant of Barzillai,Undead,--,10,Urban
+Roper,Aberration,--,10,Underground
+Sacristan,Fiend,Velstrac,10,Extraplanar
+Shield Archon,Celestial,Archon,10,Extraplanar
+Troll King,Giant,Troll,10,Mountains
+Tyrannosaurus,Animal,Dinosaur,10,Plains
+Urdefhan High Tormentor,Humanoid,Urdefhan,10,Underground
+Vrykolakas Master,Undead,--,10,Any
+Water Orm,Beast,--,10,Aquatic
+Xulgath Gutrager,Humanoid,Xulgath,10,Underground
+Yaganty,Fey,--,10,Any
+Young Cloud Dragon,Dragon,"Dragon, Primal",10,Mountains
+Young Red Dragon,Dragon,"Dragon, Chromatic",10,Mountains
+Young Silver Dragon,Dragon,"Dragon, Metallic",10,Tundra
+Adult Black Dragon,Dragon,"Dragon, Chromatic",11,Swamp
+Adult Brass Dragon,Dragon,"Dragon, Metallic",11,Desert
+Adult Crystal Dragon,Dragon,"Dragon, Primal",11,Underground
+Carnivorous Crystal,Ooze,--,11,Extraplanar
+Cloud Giant,Giant,--,11,Mountains
+Deadly Mantis,Animal,"Mantis, Giant",11,Jungle
+Devourer,Undead,--,11,Any
+Devourer,Undead,--,11,Any
+Elemental Avalanche,Elemental,"Elemental, Earth",11,Extraplanar
+Elemental Hurricane,Elemental,"Elemental, Air",11,Extraplanar
+Elemental Inferno,Elemental,"Elemental, Fire",11,Extraplanar
+Elemental Tsunami,Elemental,"Elemental, Water",11,Extraplanar
+Goliath Spider,Animal,Spider,11,Jungle
+Gosreg,Aberration,--,11,Any
+Greater Nightmare,Fiend,Nightmare,11,Any
+Hamatula (Barbed Devil),Fiend,Devil,11,Extraplanar
+Hezrou,Fiend,Demon,11,Extraplanar
+Isqulug,Aberration,--,11,Swamp
+Meladaemon,Fiend,Daemon,11,Extraplanar
+Quoppopak,Aberration,--,11,Aquatic
+Spinosaurus,Animal,Dinosaur,11,Aquatic
+Spiral Centurion,Construct,--,11,Any
+Stone Golem,Construct,Golem,11,Any
+Thunderbird,Beast,--,11,Mountains
+Young Gold Dragon,Dragon,"Dragon, Metallic",11,Mountains
+Young Umbral Dragon,Dragon,"Dragon, Primal",11,Extraplanar
+Adult Brine Dragon,Dragon,"Dragon, Primal",12,Aquatic
+Adult Copper Dragon,Dragon,"Dragon, Metallic",12,Hills
+Adult Green Dragon,Dragon,"Dragon, Chromatic",12,Forest
+Athach,Giant,--,12,Hills
+Bugul Noz,Fey,--,12,Forest
+Calikang,Humanoid,--,12,Hills
+Catoblepas,Beast,--,12,Swamp
+Cauthooj,Beast,--,12,Any
+Chernobue,Fiend,Qlippoth,12,Extraplanar
+Deculi,Beast,--,12,Underground
+Derghodaemon (Ravager Daemon),Fiend,Daemon,12,Extraplanar
+Frost Worm,Animal,Worm,12,Tundra
+Gimmerling,Fey,--,12,Urban
+Gogiteth,Aberration,--,12,Underground
+Great Cyclops,Giant,Cyclops,12,Forest
+Interlocutor,Fiend,Velstrac,12,Extraplanar
+Kolyarut,Monitor,Inevitable,12,Extraplanar
+Lich,Undead,Lich,12,Any
+Monadic Deva (Soul Angel),Celestial,Angel,12,Extraplanar
+Rusalka,Fey,--,12,Aquatic
+Rusalka,Fey,--,12,Aquatic
+Sea Serpent,Animal,--,12,Aquatic
+Shining Child,Astral,--,12,Extraplanar
+Shuln,Beast,--,12,Underground
+Taiga Giant,Giant,--,12,Tundra
+Urdefhan Hunter,Humanoid,Urdefhan,12,Underground
+Adult Blue Dragon,Dragon,"Dragon, Chromatic",13,Desert
+Adult Bronze Dragon,Dragon,"Dragon, Metallic",13,Aquatic
+Adult Magma Dragon,Dragon,"Dragon, Primal",13,Extraplanar
+Carnivorous Blob,Ooze,--,13,Any
+Dalos,Fey,--,13,Mountains
+Dragonscarred Dead,Undead,--,13,Any
+Dryad Queen (Hamadryad),Fey,Dryad,13,Forest
+Froghemoth,Aberration,--,13,Underground
+Ice Yai,Giant,Oni,13,Mountains
+Gashadokuro,Undead,--,13,Any
+Gelugon (Ice Devil),Fiend,Devil,13,Extraplanar
+Ghaele (Crusader Azata),Celestial,Azata,13,Extraplanar
+Glabrezu (Trechery Demon),Fiend,Demon,13,Extraplanar
+Irlgaunt,Aberration,--,13,Underground
+Iron Golem,Construct,Golem,13,Any
+Leng Spider,Aberration,Dream,13,Extraplanar
+Purple Worm,Animal,Cave Worm,13,Underground
+Shadow Giant,Giant,--,13,Extraplanar
+Shadow Giant,Giant,--,13,Extraplanar
+Storm Giant,Giant,--,13,Aquatic
+Thanadaemon (Death Daemon),Fiend,Daemon,13,Extraplanar
+Viper Vine,Plant,--,13,Jungle
+Vrykolakas Ancient,Undead,--,13,Any
+Adult Cloud Dragon,Dragon,"Dragon, Primal",14,Mountains
+Adult Red Dragon,Dragon,"Dragon, Chromatic",14,Mountains
+Adult Silver Dragon,Dragon,"Dragon, Metallic",14,Tundra
+Ankou,Fey,--,14,Any
+Astral Deva (Emissary Angel),Celestial,Angel,14,Extraplanar
+Augnagar,Fiend,Qlippoth,14,Extraplanar
+Crag Linnorm,Dragon,Linnorm,14,Mountains
+Doprillu,Aberration,--,14,Any
+Fire Yai,Giant,Oni,14,Mountains
+Grikkitog,Aberration,--,14,Any
+Gylou (Handmaiden Devil),Fiend,Devil,14,Extraplanar
+Nalfeshnee (Boar Demon),Fiend,Demon,14,Extraplanar
+Nalfeshnee (Boar Demon),Fiend,Demon,14,Extraplanar
+Ravener Husk,Dragon,Ravener,14,Any
+Trumpet Archon,Celestial,Archon,14,Extraplanar
+Urdefhan Dominator,Humanoid,Urdefhan,14,Underground
+Uthul,Elemental,--,14,Extraplanar
+Veiled Master (Vidileth),Aberration,Alghollthu,14,Aquatic
+Worm That Walks Cultist,Aberration,--,14,Any
+Adult Gold Dragon,Dragon,"Dragon, Metallic",15,Plains
+Adult Umbral Dragon,Dragon,"Dragon, Primal",15,Extraplanar
+Ancient White Dragon,Dragon,"Dragon, Chromatic",15,Tundra
+Azure Worm,Animal,Cave Worm,15,Underground
+Black Scorpion,Animal,Scorpion,15,Desert
+Crucidaemon (Torture Daemon),Fiend,Daemon,15,Extraplanar
+Demilich,Undead,Lich,15,Any
+Immortal Ichor,Ooze,--,15,Any
+Jotund Troll,Giant,Troll,15,Swamp
+Marrmora,Fey,--,15,Forest
+Marut,Monitor,Inevitable,15,Extraplanar
+Morrigna,Monitor,Psychopomp,15,Extraplanar
+Mukradi,Animal,--,15,Any
+Neothelid,Aberration,--,15,Underground
+Phoenix,Beast,--,15,Desert
+Quelaunt,Aberration,--,15,Any
+Shoal Linnorm,Dragon,Linnorm,15,Aquatic
+Soulbound Ruin,Construct,--,15,Any
+Umonlee,Beast,--,15,Aquatic
+Wemmuth,Plant,--,15,Any
+Ancient Black Dragon,Dragon,"Dragon, Chromatic",16,Swamp
+Ancient Brass Dragon,Dragon,"Dragon, Metallic",16,Desert
+Ancient Crystal Dragon,Dragon,"Dragon, Primal",16,Underground
+Astradaemon (Void Daemon),Fiend,Daemon,16,Extraplanar
+Bythos,Monitor,Aeon,16,Extraplanar
+Cornugon (Horned Devil),Fiend,Devil,16,Extraplanar
+Fjord Linnorm,Dragon,Linnorm,16,Tundra
+Lesser Death,Undead,Grim Reaper,16,Any
+Planetar (Justice Angel),Celestial,Angel,16,Extraplanar
+Precentor,Fiend,Velstrac,16,Extraplanar
+Rune Giant,Giant,--,16,Mountains
+Shemhazian (Mutilation Demon),Fiend,Demon,16,Extraplanar
+Spiritbound Aluum,Construct,Aluum,16,Any
+Warsworn,Undead,--,16,Any
+Zaramuun,Elemental,--,16,Extraplanar
+Zomok,Dragon,--,16,Forest
+Ancient Brine Dragon,Dragon,"Dragon, Primal",17,Aquatic
+Ancient Copper Dragon,Dragon,"Dragon, Metallic",17,Hills
+Ancient Green Dragon,Dragon,"Dragon, Chromatic",17,Forest
+Banshee,Undead,Spirit,17,Forest
+Ice Linnorm,Dragon,Linnorm,17,Tundra
+Keketar,Monitor,Protean,17,Extraplanar
+Leydroth,Beast,--,17,Any
+Marilith (Pride Demon),Fiend,Demon,17,Extraplanar
+Radiant Warden,Construct,--,17,Any
+Thrasfyr,Beast,--,17,Any
+Vaspercham,Aberration,--,17,Aquatic
+Water Yai,Giant,Oni,17,Aquatic
+Wendigo,Beast,--,17,Tundra
+Xotanispawn,Animal,--,17,Any
+Adamantine Golem,Construct,Golem,18,Any
+Ancient Blue Dragon,Dragon,"Dragon, Chromatic",18,Desert
+Ancient Bronze Dragon,Dragon,"Dragon, Metallic",18,Aquatic
+Ancient Magma Dragon,Dragon,"Dragon, Primal",18,Extraplanar
+Aolaz,Construct,--,18,Any
+Cairn Linnorm,Dragon,--,18,Hills
+Crimson Worm,Beast,Cave Worm,18,Underground
+Duneshaker Solifugid,Animal,Solifugid,18,Desert
+Kraken,Beast,--,18,Aquatic
+Purrodaemon (War Daemon),Fiend,Daemon,18,Extraplanar
+Shoggoth,Aberration,--,18,Underground
+Simurgh,Beast,--,18,Desert
+Skulltaker,Undead,--,18,Any
+Thulgant,Fiend,Qlippoth,18,Extraplanar
+Ancient Cloud Dragon,Dragon,"Dragon, Primal",19,Mountains
+Ancient Red Dragon,Dragon,"Dragon, Chromatic",19,Mountains
+Ancient Silver Dragon,Dragon,"Dragon, Metallic",19,Tundra
+Grendel,Humanoid,--,19,Aquatic
+Guthallath,Construct,--,19,Any
+Sard,Plant,--,19,Forest
+Star Archon,Celestial,Archon,19,Extraplanar
+Taiga Linnorm,Dragon,Linnorm,19,Tundra
+Terotricus,Fungus,--,19,Any
+Vrolikai (Death Demon),Fiend,Demon,19,Extraplanar
+Ancient Gold Dragon,Dragon,"Dragon, Metallic",20,Plains
+Ancient Umbral Dragon,Dragon,"Dragon, Primal",20,Extraplanar
+Balor (Fire Demon),Fiend,Demon,20,Extraplanar
+Baomal,Aberration,--,20,Aquatic
+Bastion Archon,Celestial,Archon,20,Extraplanar
+Eremite,Fiend,Velstrac,20,Extraplanar
+Norn,Fey,--,20,Mountains
+Olethrodaemon (Apocalypse Daemon),Fiend,Daemon,20,Extraplanar
+Pit Fiend (Tyrant Devil),Fiend,Devil,20,Extraplanar
+Pleroma,Monitor,Aeon,20,Extraplanar
+Tarn Linnorm,Dragon,Linnorm,20,Swamp
+Veranallia (Rebirth Azata),Celestial,Azata,20,Extraplanar
+Yamaraj,Monitor,Psychopomp,20,Extraplanar
+Grim Reaper,Undead,Grim Reaper,21,Any
+Lerritan,Elemental,Earth,21,Extraplanar
+Mu Spore,Fungus,--,21,Any
+Ravener,Dragon,Ravener,21,Any
+Tor Linnorm,Dragon,Linnorm,21,Mountains
+Jabberwock,Dragon,--,23,Forest
+Solar (Archangel),Celestial,Angel,23,Extraplanar
+Treerazer,Fiend,--,25,Forest
