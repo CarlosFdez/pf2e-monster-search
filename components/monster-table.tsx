@@ -75,6 +75,10 @@ const MonsterTableStyle = css`
         z-index: 1;
     }
 
+    tbody tr {
+        cursor: pointer;
+    }
+
     td, th {
         text-align: left;
         padding: 0 4px;

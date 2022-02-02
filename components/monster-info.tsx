@@ -14,6 +14,9 @@ export default function MonsterInfo(props: { monster?: Monster }) {
             <div css={TraitsListStyle}>
                 {monster.traits.map(trait => <span key={trait}>{trait}</span>)}
             </div>
+            <div>
+                <a href={`https://2e.aonprd.com/Search.aspx?Query=${encodeURIComponent(monster.name)}&Filter=000000100000000&AllTerms=True&OneLine=False&ExcludeAPModule=False&PFSLegalOnly=False&BestMatch=True`} target="_blank" rel="noreferrer">Nethys Link</a>
+            </div>
             <div dangerouslySetInnerHTML={{ __html: monster.notes}}/>
         </div>
     )
@@ -43,6 +46,10 @@ const MonsterInfoStyle = css`
 
     .level {
         white-space: nowrap;
+    }
+
+    a {
+        text-decoration: underline;
     }
 `;
 
