@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "extractFoundry": "node scripts/extract-foundry-json.mjs",
-    "mergeExisting": "node scripts/merge-existing.mjs",
+    "updateOutput": "node scripts/update-output.mjs",
     "build:json": "node scripts/create-json.mjs"
   },
   "dependencies": {

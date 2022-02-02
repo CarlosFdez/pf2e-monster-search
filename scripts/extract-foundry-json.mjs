@@ -2,6 +2,12 @@ import { join } from "path";
 import { opendir, readFile } from "fs/promises";
 import { capitalize, sortEntries, writeCSV, writeJSON } from "./functions.mjs";
 
+const ignoredSources = [
+    "Pathfinder Society",
+    "Pathfinder Bounty",
+    "Pathfinder Blog",
+];
+
 async function readFoundryEntries() {
     // Backup types to handle entries without a creature type
     const types = new Set(["humanoid", "astral", "aberration", "animal", "celestial", "fiend", "monitor", "fey", "construct", "beast", "elemental", "spirit", "dragon", "undead", "fungus", "plant"]);
@@ -25,13 +31,16 @@ async function readFoundryEntries() {
             if (data.type !== "npc") continue;
 
             const creatureType = data.data.details.creatureType;
+            const source = data.data.details.source.value ?? "";
             const traits = data.data.traits.traits.value ?? [];
             const type = creatureType || capitalize(traits.find(t => types.has(t)));
+
+            if (ignoredSources.some(ignored => source.startsWith(ignored))) continue;
 
             results.push({
                 id: data._id,
                 name: data.name,
-                source: data.data.details.source.value,
+                source,
                 rarity: data.data.traits.rarity,
                 type: type?.includes(",") ? type.split(",")[0].trim() : type,
                 level: data.data.details.level.value,
@@ -52,6 +61,7 @@ async function readFoundryEntries() {
 (async () => {
     console.log("Extracting Foundry Entries");
     const { results, descriptions } = await readFoundryEntries();
+    console.log("Loaded Foundry entries, writing...")
     await writeCSV("output/foundry_output.csv", sortEntries(results));
     await writeJSON("output/foundry_descriptions.json", descriptions);
 })().then(() => console.log("Finished Extracting Foundry entries")).catch(console.error);

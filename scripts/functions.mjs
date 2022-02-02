@@ -15,7 +15,7 @@ export function writeCSV(filepath, data) {
 
 /**
  * Reads a CSV string into a list of objects
- * @param {object[]} data 
+ * @param {object[]} data
  */
 export function readCSV(filepath) {
     return getStream.array(fs.createReadStream(filepath).pipe(csv.parse({ headers: true })));
@@ -35,7 +35,7 @@ export function capitalize(value) {
 }
 
 export function sortEntries(results) {
-    const sources = ["Pathfinder Core Rulebook", "Pathfinder Gamemastery Guide", "Pathfinder Bestiary", "Pathfinder Lost Omens", "Pathfinder One-Shot", "Pathfinder Adventure", "Pathfinder #", "Pathfinder Society"];
+    const sources = ["Pathfinder Core Rulebook", "Pathfinder Gamemastery Guide", "Pathfinder Bestiary", "Pathfinder Lost Omens", "Pathfinder One-Shot", "Pathfinder Adventure", "Pathfinder #"];
     let finalBucket = [...results].sort(sortBy("level"));
     const buckets = [];
     for (const source of sources) {
