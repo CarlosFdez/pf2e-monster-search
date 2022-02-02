@@ -83,9 +83,8 @@ const Home: NextPage = () => {
 
             <footer css={FooterStyle}>
                 <span>
-                    Built by Supe using data from <a href="https://foundryvtt.com/packages/pf2e/">PF2e for Foundry VTT</a> and <a href="https://docs.google.com/spreadsheets/d/1OqX2Gr1TIEywXj0GFUTMoRmSYaCs6AzSWeUsf8EFcdc/edit#gid=415658932">this sheet</a>. Data published under the <a href="https://paizo.com/community/communityuse">CUP</a>.
+                    Built by Supe using data from <a href="https://foundryvtt.com/packages/pf2e/">PF2e for Foundry VTT</a> and <a href="https://docs.google.com/spreadsheets/d/1OqX2Gr1TIEywXj0GFUTMoRmSYaCs6AzSWeUsf8EFcdc/edit#gid=415658932">this sheet</a>. Data published under the <a href="https://paizo.com/community/communityuse">CUP</a>. <a href="https://github.com/CarlosFdez/pf2e-monster-search">Github</a>.
                 </span>
-
             </footer>
         </div>
     );
